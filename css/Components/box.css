@@ -6,7 +6,7 @@
     border-radius: 5px;
 }
 
-.box h1 {
+.box .title {
     color: orange;
     text-shadow: 2px 4px 0px #000;
     margin-bottom: 10px;
