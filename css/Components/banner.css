@@ -1,0 +1,17 @@
+.banner {
+    background-image: url(../../Assets/img/photo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    border-bottom: 10px solid #000;
+    display: flex;
+    flex-direction: column;
+}
+
+.button-wrapper {
+    justify-content: space-around;
+    display: flex;
+    width: 100%;
+    max-width: 500px;
+    margin-left: 91px;
+}
