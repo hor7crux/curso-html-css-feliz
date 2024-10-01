@@ -1,0 +1,15 @@
+.skills-tec {
+    display: flex;
+    font-size: 25px;
+    color: #FFF;
+}
+
+.skills-tec .icon {
+    margin-right: 25px;
+}
+
+.skills-tec .right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

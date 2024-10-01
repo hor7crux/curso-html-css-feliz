@@ -9,9 +9,3 @@
     max-width: 500px;
     text-align: center;
 }
-
-.box .title {
-    color: orange;
-    text-shadow: 2px 4px 0px #000;
-    margin-bottom: 10px;
-}
