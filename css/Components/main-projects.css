@@ -1,0 +1,21 @@
+.main-projects {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 156px;
+    box-sizing: border-box;
+    padding-top: 50px;
+}
+
+.main-projects .icon {
+    width: 280px;
+    height: 280px;
+}
+
+.icon.-imgbox {
+    background-color: #4C5B84;
+    background-size: 280px;
+    box-shadow: 10px 10px 0px 0px #FFF;
+    padding: 20px;
+    box-sizing: border-box;
+}
